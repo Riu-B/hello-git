@@ -1,3 +1,5 @@
-sequence A C D
+sequence A C D F
 =======
-sequence A B D
+sequence A B D F
+=======
+sequence A B E F
